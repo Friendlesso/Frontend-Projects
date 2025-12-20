@@ -21,3 +21,21 @@ React · TypeScript · Tailwindcss
   →[Repo](https://github.com/Friendlesso/Stats-Preview-Card) | [Live Demo](https://stats-preview-card-67vj.onrender.com/)
 - **3-column preview card component**
   →[Repo](https://github.com/Friendlesso/Column-Preview-Card) | [Live Demo](https://column-preview-card.onrender.com/)
+- **Single price grid component**
+  →[Repo](https://github.com/Friendlesso/Price-Grid) | [Live Demo](https://price-grid.onrender.com/)
+- **Profile card component**
+  →[Repo](https://github.com/Friendlesso/Profile-CC-FM) | [Live Demo](https://profile-cc-fm.onrender.com/)
+- **Social proof section**
+  →[Repo](https://github.com/Friendlesso/Social-Proof) | [Live Demo](https://social-proof-8f4q.onrender.com/)
+- **Four card feature section**
+  →[Repo](https://github.com/Friendlesso/Four-Card-Section) | [Live Demo](https://four-card-section.onrender.com/)
+- **Huddle landing page**
+  →[Repo](https://github.com/Friendlesso/Huddle-Landing-Page) | [Live Demo](https://huddle-landing-page-ld54.onrender.com/)
+- **Recipe page**
+  →[Repo](https://github.com/Friendlesso/Recipe-page) | [Live Demo](https://recipe-page-7a3q.onrender.com/)
+- **FAQ accordion**
+  →[Repo](https://github.com/Friendlesso/FAQ-Component) | [Live Demo](https://faq-component.onrender.com/)
+
+
+- **Interactive rating component**
+  →[Repo](https://github.com/Friendlesso/Interactive-rating) | [Live Demo](https://interactive-rating-eydw.onrender.com/)

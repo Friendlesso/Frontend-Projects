@@ -37,5 +37,7 @@ React · TypeScript · Tailwindcss
   →[Repo](https://github.com/Friendlesso/FAQ-Component) | [Live Demo](https://faq-component.onrender.com/)
 - **Article-Preview**
   →[Repo](https://github.com/Friendlesso/Article-Preview) | [Live Demo](https://article-preview-gqo1.onrender.com/)
+- **Coming Soon Page**
+  →[Repo](https://github.com/Friendlesso/Coming-Soon) | [Live Demo](https://coming-soon-3atc.onrender.com/)
 - **Interactive rating component**
   →[Repo](https://github.com/Friendlesso/Interactive-rating) | [Live Demo](https://interactive-rating-eydw.onrender.com/)

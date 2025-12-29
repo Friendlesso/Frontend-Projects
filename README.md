@@ -6,7 +6,7 @@ React · TypeScript · Tailwindcss
 
 ## Frontend Mentor Projects
 
-### Beginner (1/5)
+### Beginner (1/5) Projects(21/21)
 - **QR code component**
   →[Repo](https://github.com/Friendlesso/QR-code-component-FM) | [Live Demo](https://qr-code-component-fm.onrender.com/)
 - **Blog preview card**

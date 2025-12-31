@@ -49,3 +49,5 @@ React · TypeScript · Tailwindcss
   →[Repo](https://github.com/Friendlesso/Ping-Coming-Soon) | [Live Demo](https://ping-coming-soon.onrender.com/)
 - **Interactive rating component**
   →[Repo](https://github.com/Friendlesso/Interactive-rating) | [Live Demo](https://interactive-rating-eydw.onrender.com/)
+
+### Junior (2/5) Projects(0/30)

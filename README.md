@@ -53,3 +53,5 @@ React · TypeScript · Tailwindcss
 ### Junior (2/5) Projects(1/30)
 - **Testimonials-Grid**
   →[Repo](https://github.com/Friendlesso/Testimonials-Grid) | [Live Demo](https://testimonials-grid-y6mj.onrender.com/)
+- **Data Storage Component**
+  →Working on it

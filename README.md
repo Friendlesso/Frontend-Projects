@@ -55,3 +55,6 @@ React · TypeScript · Tailwindcss
   →[Repo](https://github.com/Friendlesso/Testimonials-Grid) | [Live Demo](https://testimonials-grid-y6mj.onrender.com/)
 - **Data Storage Component**
   →[Repo](https://github.com/Friendlesso/Data-Storage/tree/main) | [Live Demo](https://data-storage-j3sj.onrender.com/)
+  
+- **Advice Generator App**
+  →[Repo](https://github.com/Friendlesso/Advice-Generator) | [Live Demo](https://advice-generator-dhjz.onrender.com/)

@@ -50,10 +50,12 @@ React · TypeScript · Tailwindcss
 - **Interactive rating component**
   →[Repo](https://github.com/Friendlesso/Interactive-rating) | [Live Demo](https://interactive-rating-eydw.onrender.com/)
 
-### Junior (2/5) Projects(3/30)
+### Junior (2/5) Projects(4/30)
 - **Testimonials-Grid**
   →[Repo](https://github.com/Friendlesso/Testimonials-Grid) | [Live Demo](https://testimonials-grid-y6mj.onrender.com/)
 - **Data Storage Component**
   →[Repo](https://github.com/Friendlesso/Data-Storage/tree/main) | [Live Demo](https://data-storage-j3sj.onrender.com/)
 - **Advice Generator App**
   →[Repo](https://github.com/Friendlesso/Advice-Generator) | [Live Demo](https://advice-generator-dhjz.onrender.com/)
+- **Fylo-Landing-Page**
+  →[Repo](https://github.com/Friendlesso/Fylo-Landing-Page) | [Live Demo](https://fylo-landing-page-ytku.onrender.com/)

@@ -50,7 +50,7 @@ React · TypeScript · Tailwindcss
 - **Interactive rating component**
   →[Repo](https://github.com/Friendlesso/Interactive-rating) | [Live Demo](https://interactive-rating-eydw.onrender.com/)
 
-### Junior (2/5) Projects(4/30)
+### Junior (2/5) Projects(5/30)
 - **Testimonials-Grid**
   →[Repo](https://github.com/Friendlesso/Testimonials-Grid) | [Live Demo](https://testimonials-grid-y6mj.onrender.com/)
 - **Data Storage Component**
@@ -59,3 +59,5 @@ React · TypeScript · Tailwindcss
   →[Repo](https://github.com/Friendlesso/Advice-Generator) | [Live Demo](https://advice-generator-dhjz.onrender.com/)
 - **Fylo-Landing-Page**
   →[Repo](https://github.com/Friendlesso/Fylo-Landing-Page) | [Live Demo](https://fylo-landing-page-ytku.onrender.com/)
+- **Typing-Speed-Test**
+  →[Repo](https://github.com/Friendlesso/Typing-Speed-FM) | [Live Demo](https://typing-speed-fm.onrender.com/)

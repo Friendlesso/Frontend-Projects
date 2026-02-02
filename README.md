@@ -50,7 +50,7 @@ React · TypeScript · Tailwindcss
 - **Interactive rating component**
   →[Repo](https://github.com/Friendlesso/Interactive-rating) | [Live Demo](https://interactive-rating-eydw.onrender.com/)
 
-### Junior (2/5) Projects(5/30)
+### Junior (2/5) Projects(5/31)
 - **Testimonials-Grid**
   →[Repo](https://github.com/Friendlesso/Testimonials-Grid) | [Live Demo](https://testimonials-grid-y6mj.onrender.com/)
 - **Data Storage Component**
